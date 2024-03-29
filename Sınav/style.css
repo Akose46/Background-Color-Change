@@ -17,6 +17,7 @@ button{
     border-radius: 64px;
     padding: 16px 32px;
     cursor: pointer;
+    letter-spacing: 1.3px;
     outline: none;
     box-shadow: 1px 1px 5px rgb(0,0,0);
 }
